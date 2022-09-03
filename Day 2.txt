@@ -1,0 +1,72 @@
+Q1   import java.util.Scanner;
+     public class Main {
+     public static void main(String[] args) {
+        Scanner sc= new Scanner(System.in);
+        double r = sc.nextDouble();
+        double area= 3.14*r*r;
+        System.out.println(area);
+    }
+}
+
+Q2   import java.util.Scanner;
+     public class Main {
+     public static void main(String[] args) {
+        Scanner sc= new Scanner(System.in);
+        double x= sc.nextDouble();
+        double y= sc.nextDouble();
+        double area= 0.5*x*y;
+        System.out.println(area);
+    }
+}
+
+Q3   import java.util.Scanner;
+     public class Main {
+     public static void main(String[] args) {
+        Scanner sc= new Scanner(System.in);
+        int x= sc.nextInt();
+        System.out.println(x>1000);
+    }
+}
+
+Q4 , Q5 and Q6 submitted by google form.
+
+Q7   import java.util.Scanner;
+     public class Main {
+     public static void main(String[] args) {
+        Scanner sc= new Scanner(System.in);
+        double a= sc.nextDouble();
+        double b= sc.nextDouble();
+        double c= sc.nextDouble();
+        double d= sc.nextDouble();
+        double e= sc.nextDouble();
+        double sum=a+b+c+d+e;
+        double per= sum/500*100;
+        System.out.println(sum);
+        System.out.println(per);
+    }
+}
+
+Q8   import java.util.Scanner;
+     public class Main {
+     public static void main(String[] args) {
+        Scanner sc= new Scanner(System.in);
+        int a= sc.nextInt();
+        int b= sc.nextInt();
+        int c= sc.nextInt();
+        int d= sc.nextInt();
+        int pro= a*b*c*d;
+        System.out.println(pro>1000);       
+    }
+} 
+
+Q9   import java.util.Scanner;
+     public class Main {
+     public static void main(String[] args) {
+        Scanner sc= new Scanner(System.in);
+        int a= sc.nextInt();
+        int b= a%7;
+        System.out.println(b==0) ;    
+    }
+}
+
+Q10  Attempted the quiz.
