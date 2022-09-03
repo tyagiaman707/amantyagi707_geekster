@@ -1,0 +1,72 @@
+Q1  public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello I am enjoying coding");
+    }
+}
+
+Q2  public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello");
+        System.out.println("I");
+        System.out.println("am");
+        System.out.println("enjoying");
+        System.out.println("coding");
+
+    }
+}
+
+Q3  public class Main {
+    public static void main(String[] args) {
+        System.out.println("Sum is: " +(100+8+3));
+        System.out.println("Product is: " +(100*8*3));
+
+
+    }
+}
+
+Q4   public class Main {
+    public static void main(String[] args) {
+        System.out.println("Difference is: " +(100-40));
+    }
+}
+
+Q5   public class Main {
+    public static void main(String[] args) {
+        System.out.println("*****");
+        System.out.println("*****");
+        System.out.println("*****");
+        System.out.println("*****");
+        System.out.println("*****");
+        System.out.println("*****");
+
+    }
+}
+
+Q6   public class Main {
+    public static void main(String[] args) {
+        System.out.println("* *");
+        System.out.println("* *");
+        System.out.println("* *");
+        System.out.println("* *");
+        System.out.println("* *");
+        System.out.println("****");
+    }
+}
+
+Q7   public class Main {
+    public static void main(String[] args) {
+        System.out.println("Last digit is : " + 9877653%10);
+    }
+}
+
+Q8   import java.util.Scanner;
+     public class Main {
+    public static void main(String[] args) {
+        Scanner sc= new Scanner(System.in);
+        int m= sc.nextInt();
+        int n= sc.nextInt();
+        System.out.println(m+n);
+        System.out.println(m-n);
+        System.out.println(m*n);
+    }
+}
